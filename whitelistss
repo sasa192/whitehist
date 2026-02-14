@@ -1,5 +1,5 @@
 return {
-    DISABLED = true,
+    DISABLED = false,
     USERS = {
         [9335903916] = true,
         [8923048647] = true,
